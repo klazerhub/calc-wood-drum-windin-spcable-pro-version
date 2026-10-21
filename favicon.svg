@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Расчёт барабанов</title>
+  <desc>Кабельный барабан: серые щеки и намотка, жёлтый фон. По мотивам предоставленного значка.</desc>
+  <rect width="1024" height="1024" rx="224" fill="#ffd200"/>
+  <g id="drum">
+    <rect x="264" y="320" width="496" height="384" rx="20" fill="#d9d9d9"/>
+    <g fill="#464646">
+      <rect x="230" y="216" width="64" height="592" rx="32"/>
+      <rect x="730" y="216" width="64" height="592" rx="32"/>
+      <rect x="338" y="320" width="40" height="384" rx="20"/>
+      <rect x="442" y="320" width="40" height="384" rx="20"/>
+      <rect x="546" y="320" width="40" height="384" rx="20"/>
+      <rect x="650" y="320" width="40" height="384" rx="20"/>
+    </g>
+  </g>
+</svg>
