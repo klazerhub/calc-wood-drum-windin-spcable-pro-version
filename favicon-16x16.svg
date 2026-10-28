@@ -1,13 +1,17 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M13.5724 0H2.42759C1.08687 0 0 1.08687 0 2.42759V13.5724C0 14.9131 1.08687 16 2.42759 16H13.5724C14.9131 16 16 14.9131 16 13.5724V2.42759C16 1.08687 14.9131 0 13.5724 0Z" fill="#FFCF00"/>
-<path d="M14 2V14" stroke-width="2" stroke-linecap="round" stroke="#464646"/>
-<path d="M2 2V14" stroke-width="2" stroke-linecap="round" stroke="#464646"/>
-<path d="M9.79559 12.5L9.79559 3.5" stroke-linecap="round" stroke="#464646"/>
-<path d="M10.9872 12.5L10.9872 3.5" stroke-linecap="round" stroke="#464646"/>
-<path d="M12.1789 12.5L12.1789 3.5" stroke-linecap="round" stroke="#464646"/>
-<path d="M8.60394 12.5L8.60394 3.5" stroke-linecap="round" stroke="#464646"/>
-<path d="M7.41229 12.5L7.41229 3.5" stroke-linecap="round" stroke="#464646"/>
-<path d="M6.22064 12.5L6.22064 3.5" stroke-linecap="round" stroke="#464646"/>
-<path d="M5.02899 12.5L5.02899 3.5" stroke-linecap="round" stroke="#464646"/>
-<path d="M3.83734 12.5L3.83734 3.5" stroke-linecap="round" stroke="#464646"/>
+<svg width="16" height="16" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0H180V180H0V0Z" fill="#464646"/>
+<mask id="stroke0_3509_35" fill="white">
+<path d="M0 0H180V180H0V0Z"/>
+</mask>
+<path d="M0 0H180V180H0V0Z" stroke-width="28" stroke="#464646" mask="url(#stroke0_3509_35)"/>
+<rect x="18" y="17" width="145" height="145" rx="22" fill="#FFCF00"/>
+<rect x="44" y="52.5294" width="86.4706" height="74.9412" fill="#FFCF00"/>
+<path d="M136.235 41V139" stroke-width="18.025" stroke-linecap="round" stroke="#464646"/>
+<rect x="55.5259" y="49.647" width="8.64706" height="80.7059" rx="4.32353" fill="#464646"/>
+<rect x="67.6296" y="49.647" width="8.64706" height="80.7059" rx="4.32353" fill="#464646"/>
+<rect x="79.7332" y="49.647" width="8.64706" height="80.7059" rx="4.32353" fill="#464646"/>
+<rect x="91.8369" y="49.647" width="8.64706" height="80.7059" rx="4.32353" fill="#464646"/>
+<rect x="103.94" y="49.647" width="8.64706" height="80.7059" rx="4.32353" fill="#464646"/>
+<rect x="116.044" y="49.647" width="8.64706" height="80.7059" rx="4.32353" fill="#464646"/>
+<path d="M44 41L44 139" stroke-width="19.3125" stroke-linecap="round" stroke="#464646"/>
 </svg>
